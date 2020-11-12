@@ -126,7 +126,7 @@ namespace Open_Lab_10._05
         }
         public void PrintBookInfo()
         {
-            Console.WriteLine(author + empty + title + empty + pages + empty + category + empty + releaseDate);
+            Console.WriteLine(author + empty + title + empty + pages + empty + category + empty + releaseDate); 
         }
     }
 }
